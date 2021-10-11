@@ -5,9 +5,10 @@ Today's objectives:
     - divide work
 
 
-
-
 Vending Machine
+
+    - Machine Actions
+        -
 
     - Menu/UserInput
         Instance variables
@@ -25,9 +26,7 @@ Vending Machine
         - Drink (child)
         - Gum (child)
         Methods for the above classes:
-            - stock
-            - purchase
-            - dispense
+            - stock?
             - log
             - (for fun: get stuck --> low probability chance that item gets caught while dispensing.
                User given the option to rock the machine to dislodge it. Low probability chance that
